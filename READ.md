@@ -10,4 +10,3 @@ Python
 
 MATLAB
 
-Big Data
